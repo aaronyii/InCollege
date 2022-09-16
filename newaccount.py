@@ -30,3 +30,5 @@ def newaccount():
     
     with open('students.json', "w") as f:
         json.dump(data, f)
+
+# Trying to figure out how to use GitHub

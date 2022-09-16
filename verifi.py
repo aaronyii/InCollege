@@ -13,5 +13,5 @@ def verifiPass(validate):
   if validate.isalnum():
     print("Password requires a special character")
     return 1
-  print("Good password, nice job.")
+  print("Good password, nice job.\n")
   return 0
